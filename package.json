@@ -1,0 +1,15 @@
+{
+  "name": "Desafio Projeto Mario Kart",
+  "version": "1.0.0",
+  "description": "Desafio de projeto do Felipão: Mario Kart.JS",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
